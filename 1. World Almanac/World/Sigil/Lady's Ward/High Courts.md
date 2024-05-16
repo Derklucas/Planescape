@@ -1,0 +1,13 @@
+The scales of justice are balanced at the High Courts of Sigil, headquarters of the Fraternity of Order. The courthouse is a dignified edifice hewn from flawless, white marble with towers that rise from the structure's bladed gables. Granite steps ascend the courthouse's elevated entrance, above which hangs a triangular pediment. Etched within the architrave is the faction's motto: "Knowledge is power."
+
+Though absolute authority in Sigil belongs to the Lady of Pain, most legal matters are settled in the city's tribunals, often decided by a single, supposedly impartial magistrate appointed by the Guvners. Punishments are tailored to fit the crime, and advocates are strongly encouraged. Lawyers and orators, these civil servants include bards, faction agents, and devils with a knack for navigating the subtleties of the law.
+
+While cheap advocates linger on the courthouse steps hoping to find work, their arguments are brittle. Brilliant barristers demand high retainers, but they're worth every coin when the alternative is a visit from the Mercykillers. One talented attorney is "Sly" Nye (chaotic neutral, tiefling noble), who claims to have never lost a case. Sly has been known to waive their astronomical fee for adventurers who help gather evidence relevant to other cases. Of course, the accused are always free to represent themselves.
+
+**Courts.** The rear tower consists primarily of lesser courts, which resound with procedural bickering and the rapping of gavels. More serious offenses are prosecuted in the Grand Court, a noble chamber darkened by severe judges and their righteous verdicts. Any of the following three judges might preside over a trial in the Grand Court:
+
+- **Dadras**, a planetar with a powdered wig and a fiery temper. The angel detests lies.
+- **Factol Hashkar,** leader of the Fraternity of Order.
+- **Madam Rule**, a scornful pit fiend known for her harsh interjections and screeching metal gavel.
+
+**Hall of Concordance**. Elsewhere within the High Courts lies the Hall of Concordance, an embassy of law where contracts are forged under the unblinking eyes of the inevitables, constructs created by the modron deity Primus to bring order to dealings between planar folk. Inside, the Kolyarut, an engine of absolute order, ratifies contracts on sheets of solid gold, leaving their enforcement to the inexorable maruts and truth-seeking components of itself, also dubbed kolyaruts. Rule breakers who violate these sacred contracts are tracked down and banished to a teleportation circle in the hall.

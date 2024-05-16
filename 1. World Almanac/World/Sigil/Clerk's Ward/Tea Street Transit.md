@@ -1,0 +1,3 @@
+The onion-shaped cabs of Tea Street Transit shuttle customers throughout the Clerks' Ward. The proprietor is Kyl Silkfoot (lawful neutral, elf druid), a crotchety elf with a raspy voice, easily spotted by the nauseating cloud of smoke that issues from his tarweed cigars. Kyl's cabs are always clean and comfortable. Fantastic mounts—such as displacer beasts, unicorns, and bizarre ponies warped by the magic of the Outer Planes—pull the bulbous carriages.
+
+Trusted by the ward's wealthy elite, the cabdrivers of Tea Street Transit are a reliable source of information pertaining to government officials, esteemed intellectuals, and known criminals.

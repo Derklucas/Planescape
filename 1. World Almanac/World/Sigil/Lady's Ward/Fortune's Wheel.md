@@ -1,0 +1,9 @@
+Luck abounds at Fortune's Wheel, an extravagant casino and favored hotspot in the Lady's Ward. It's run by Shemeshka, a vain and ambitious yugoloth crime lord of multiversal renown. Rarely spotted in the common areas of the gambling hall, the arcanaloth is the picture of wealth, power, and influence, always dressed to the nines and crowned with a spidery razorvine headdress. In Shemeshka's eyes, the establishment's profits pale in comparison to its true spoils: secrets gleaned by her web of spies, both those employed in the casino and others enacting her far-reaching schemes.
+
+**Dragon Bar.** Like moths to a candle, risk takers gravitate to the buzzing marquee of Fortune's Wheel. The polished revolving door of this recently renovated building opens into the historic Dragon Bar, a modest tavern named for the carved dragon head that watches over it. Beyond this reception area and its alert bouncers lies the casino proper.
+
+**Casino**. Games of chance line the luxurious carpeted casino hall, which thrums with a chorus of shuffling cards, rattling dice, and whirring clockwork slot machines. These games take razorleaf gambling chips, golden tokens that bear a stylized razorvine emblem.
+
+Every evening, performances grace an ornate, curtained stage, but the real star of the casino is its namesake: the fortune's wheel, a three-tiered, standing roulette wheel where inheritances are squandered and made. Weapons and luck-altering magic are prohibited within the casino, but the staff enforces the policy only in the most blatant of violations.
+
+**Platinum Rooms.** Known to few and hidden within the casino are the Platinum Rooms, a collection of demiplanar chambers where interplanar fat cats wager ancient artifacts, trapped souls, and the fates of entire worlds. Accessible only to bigwigs trusted with special portal keys, the Platinum Rooms feature a rogue's gallery of some of the multiverse's most dangerous players.

@@ -1,0 +1,3 @@
+Located between the Hall of Records and Hall of Speakers, the Hall of Information is a gleaming, blue-domed repository of knowledge that serves as Sigil's de facto welcome center. Sedan chair drivers, touts, and translators loiter nearby, hollering their services at pedestrians.
+
+Public notices and odd jobs are posted to a board outside the hall. For more information, interested parties can consult a directory of municipal departments and pay any applicable fee to meet with an officer of the appropriate ministry. Inside, stewards warn visitors against touching the hall's many polished surfaces, lest they anger Chief Bordon Mok, a no-nonsense, lawful good bariaur wanderer who extinguishes misconduct with a crack of her silvered whip.

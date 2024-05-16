@@ -1,0 +1,16 @@
+Nearly every faction in Sigil keeps a secret hoard of knowledge available only to its members. Kesto Brighteyes (chaotic good, gnome Athar null; see Morte's Planar Parade), does his best to even out that imbalance. Kesto runs the Parted Veil, a bookstore on Forgotten Lane not far from the Shattered Temple. The shop contains a motley array of texts available for sale: histories, novels, atlases, dictionaries, maps, spellbooks, biographies, newspapers, and anything else printed or scribed.
+
+A magic mouth spell over the front door of the Parted Veil welcomes visitors with short inspirational messages. Once inside, customers are greeted by a wondrous sight—the walls, ceilings, and floors are made of books. Shoppers tread across the spines of volumes underfoot as they peruse titles above and below. With no shelves or clear system of organization, the shop is a labyrinth of knowledge that only Kesto can navigate, but the shopkeep is always happy to help a customer find what they're after.
+
+Kesto is a venerable gnome with round spectacles and a wiry, unkempt beard. A proud member of the Athar, the open-minded Kesto aims to empower his customers through knowledge. He is accompanied by the gaunt-faced Sir Cleave, a friendly, lawful good bodak (see Mordenkainen Presents: Monsters of the Multiverse; replace with a lawful good revenant if you don't have that book). Sir Cleave eagerly assists customers, regardless of how uncomfortable it makes them.
+
+##### Spells for Sale
+Kesto maintains a vast collection of scrolls and spellbooks. He allows wizards to copy spells from them at the cost listed in the Spells for Sale table. Spells marked with an asterisk (*) appear in chapter 1 of this book. He can have any of these scribed as a spell scroll for twice the listed cost for this service.
+
+| Spell                                                                                                                                                           | Cost per Spell |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- |
+| Comprehend languages, detect magic, disguise self, feather fall, illusionary script, protection from evil and good, shield,              Tenser's floating disk | 25 gp          |
+| Arcane lock, darkvision, detect thoughts, hold person, invisibility, knock, Nystul's magic aura, warp sense*                                                    | 75 gp          |
+| Dispel magic, fly, glyph of warding, magic circle, sending, tongues                                                                                             | 150 gp         |
+| Dimension door, fabricate, gate seal,* locate creature                                                                                                          | 300 gp         |
+| Contact other plane, legend lore, planar binding, Rary's telepathic bond                                                                                        | 750 gp         |

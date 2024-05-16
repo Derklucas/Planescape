@@ -1,0 +1,3 @@
+The Institute for Intellectual Excellence is a prestigious planar academy. Renowned for the rigor of its curriculum and high expectations from faculty, the institute numbers among the best places to learn about the cosmos and its wonders. Professors are experts on subject matter that can be appreciated only in the City of Doors: portal theory, the prolonged effects of planar travel on physiology, and multiversal philosophy, just to name a few.
+
+Enoll Eva, a septon modron (see Morte's Planar Parade), is the institute's dean. A distinguished authority on planar cosmology, mathematics, and wizardry, Enoll has made unmatched strides in the practical applications of algebra on magic.

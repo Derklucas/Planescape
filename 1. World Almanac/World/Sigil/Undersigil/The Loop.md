@@ -1,0 +1,5 @@
+Even Undersigil has portals, and the worst of them dump their quarries into the Loop. This region is a graveyard for the lost: a closed, circular tunnel connected to dozens of one-way, hidden portals scattered throughout Undersigil. At first glance, the Loop appears no different from the tunnels that pour into it. However, after repeatedly passing the same doom-filled messages scrawled onto its walls, travelers often begin to panic.
+
+The Loop isn't beholden to the laws of time or space. At certain points along its mind-bending circumference, imprisoned creatures might spot their own backs or torchlight in the distance.
+
+Rarely, through determination or sheer luck, creatures do escape the Loop. However, seconds spent in the Loop might equate to years outside, and some absconders emerge only to find they've been hurled into the distant past or future. Some members of long-dead factions in Undersigil know how to navigate the Loop, darting through it in desperate moments to trap threats and leave them to die.

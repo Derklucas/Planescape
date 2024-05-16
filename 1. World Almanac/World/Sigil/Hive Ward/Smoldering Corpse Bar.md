@@ -1,0 +1,7 @@
+The wrought-iron walls of the Smoldering Corpse Bar muffle the mayhem of the Hive. Locals wet their whistles in the dive bar, raising dented mugs to angels and devils, off the clock and shooting the breeze with each other. Heat rises through vents in the taproom's drab-tiled floors to warm banged-up metal tables, their surfaces marred by blades and stained with dried blood. The watering hole's jaded proprietor, [[Barkis]], can usually be found behind the patchwork fusion of rusted metal that passes for a bar top.
+
+###### Ignus
+The Smoldering Corpse Bar is named for the perpetually burning mage named Ignus who hovers within. Once a pyromaniacal Wreaker who tried to reduce the Hive to ash, Ignus was imprisoned in flame as a sardonic punishment for his crimes, transforming him into a living portal to the Elemental Plane of Fire. Since then, he's become a fiery mascot for the bar he attempted to destroy, suspended above its torrid taproom. If doused with a decanter of endless water, Ignus rouses from his stupor as a chaotic neutral, human mage.
+
+###### Settling Tabs
+The establishment has earned a reputation for reliable, albeit unremarkable, service. If the coin keeps flowing, so does the "bub"—a blanket term locals apply to cheap liquor. When a customer can't settle their tab, Barkis asks for collateral until the debt is paid. His backroom is filled with belongings left behind by drinkers who never returned. Most of it is junk, but Barkis lets interested parties rummage through it in exchange for completing odd jobs or serving as temporary bouncers.
