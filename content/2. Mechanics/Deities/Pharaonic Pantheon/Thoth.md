@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[Thoth.png | 200]]
+> ![[THoth.png| 200]]
 >  **Aliases:** The Keeper of Knowledge
 > **Alignment:** Neutral
 > **Domain:** Knowledge, Scribes and Logic

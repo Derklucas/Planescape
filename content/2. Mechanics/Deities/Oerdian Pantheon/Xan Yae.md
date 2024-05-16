@@ -1,5 +1,5 @@
 > [!infobox]
-> ![[Xan yae.png | 200]]
+> ![[Xan Yae.png| 200]]
 >  **Aliases:** Lady of Perfection, The Perfect Mistress, Supreme Mistress of Petals
 > **Alignment:** Neutral
 > **Domain:** Twilight, Shadows, Stealth, Mental and Physical Mastery 
