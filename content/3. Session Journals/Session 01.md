@@ -1,18 +1,13 @@
 **Date Played:** 18th April, 2024
 
+[[Prologue |< Previous Session]] | [[Session 02 |Next Session >]]
 ## Characters
 
-- [[Azhari XIII]]
-- [[Blue Whisper]]
-- [[Forgor Fumblefoot]]
-- [[Jillian Tealeaf]]
-- [[Telemachus Vaeloren]]
-
-## Session Overview
-
-### Short Summary
-
-The party wakes up in a morgue. Are they dead? If not, why are they there?
+- Azhari XIII
+- Blue Whisper
+- Forgor Fumblefoot
+- Jillian Tealeaf
+- Telemachus Vaeloren
 
 ### Summary
 
@@ -27,25 +22,3 @@ We heard a muffled cry for help from the next door we wanted to open. The room w
 Next up, we decided to try our luck and run through the burn room. Blue Whisper felt inclined to go first. She backflipped into the corridor, and while the door was closing, I could see a slight glimpse of fear in her eyes. Then it was silent for a minute or so. Azhari looked like he got a headache, or as if someone was getting into his thoughts. Finally the doors opened and we all ran to the other side of the corridor. A friendly looking zombie called Maurice moaned at us, I think it was a sign of approval. We then found yet another door to knock on. A sophisticated voice answered: ‘Yes, come in.’ I entered a beautiful workplace filled with scrolls, books and a big chandelier. Hovering over his desk was a flying skull with shiny gemstone eyes. He was pondering about a text he was writing, too distracted to answer our questions. I offered him my help. Writing poetry for the dead is something you don’t get to do often, and it seems I’m pretty good at it. He was moved by my words, to say the least. He let us rummage through his death scrolls, and to our surprise, found our own. Oddly enough their was no cause of death noted.
 
 We accepted this strange turn of events, and let Brownmane, Telemachus and Blue Whisper their hunger lead us to the dining room. Everyone’s favorite food was perfectly displayed on a long dining table. I may have drank too many glasses of  Pinot Noir, but the strangest thing then happened. As Brownmane was gulping down his big bowl of hearty stew, he started coughing, and began throwing up his organs. Then his appearance changed, as if he’d glitched. A filthy, long-bearded dwarf was now among us. Although he didn’t seem to be bothered by this transformation, I knew in an instant that this was only the beginning.
-
-## Key Learnings
-
-- The characters are in a place called: The Mortuary in the Hive Ward in Sigil
-- They were brought in by a undertaker called Norochj
-- Forgor the Kender got poisoned, glitched out and suddenly was a Dwarf
-- There is a costumed ball being hosted, or has that time already passed?
-
-## Who Did They Meet?
-
-- Morte
-- Furth
-- Thaeziagnus
-
-## Loot
-
-- A healer's kit with 3 remaining uses
-- An invitation to a masked ball
-- A jeweled goblet (worth 100 gp)
-- A manifesto of the Herald's of Dust philosophies
-- Spell scroll of Animate Dead
-- Death Certificates for each character with the cause of death still open

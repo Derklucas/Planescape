@@ -1,0 +1,1 @@
+Heiron Lifegiver is a citizen of [[Automata]], well-known throughout the planes for his expert craftsmanship of magical items, a reputation he's built up over centuries of work. It's his specialty, however, that gives him true recognition amongst certain circles: sentient creations.
