@@ -3,11 +3,11 @@
 [[Session 02 |< Previous Session]] | [[Session 04 |Next Session >]]
 
 ## Characters
-- Azhari XIII
-- Blue Whisper
-- Forgor Fumblefoot
-- Jillian Tealeaf
-- Telemachus Vaeloren
+- [[Azhari XIII]]
+- [[Blue Whisper]]
+- [[Forgor Fumblefoot]]
+- [[Jillian Tealeaf]]
+- [[Telemachus Vaeloren]]
 
 ### Summary
 
