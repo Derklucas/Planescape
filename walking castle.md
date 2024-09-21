@@ -1,0 +1,1 @@
+A walking castle is a massive fortified keep that has been animated by powerful magic. It occupies an 80 foot by 80 feet area, stands 120 feet tall at the shoulder (reaching a maximum height of 180 feet including the towers protruding from its back), and can transport a small army wherever it goes. Entire kingdoms tremble when a walking castle goes to war.

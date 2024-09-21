@@ -1,6 +1,6 @@
 **Date Played:** 5th July, 2024
 
-[[Session 04 |< Previous Session]] 
+[[Session 04 |< Previous Session]] | [[Session 06 |Next Session >]]
 ## Characters
 
 - [[Azhari XIII]]

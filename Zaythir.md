@@ -1,0 +1,3 @@
+Zaythir is a patient scholar of the planes who rarely shows extremes of emotion. If she is freed and the Fiends are driven out of her home, she's indebted to the characters. She introduces herself and can provide information on the following topics:
+
+- **Personal Background.** Zaythir is a scholar of the planes who studies the Outlands and the planes beyond. She has guarded the walking castle alone for years.
