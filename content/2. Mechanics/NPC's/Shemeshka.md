@@ -1,0 +1,1 @@
+The proprietor of [[Fortune's Wheel]]

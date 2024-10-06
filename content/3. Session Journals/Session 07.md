@@ -1,6 +1,6 @@
 **Date Played:** 17th September, 2024
 
-[[Session 06 |< Previous Session]] 
+[[Session 06 |< Previous Session]] | [[Session 08 | Next Session >]]
 
 ## Characters
 

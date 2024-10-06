@@ -1,0 +1,1 @@
+The sole purpose of life for the rilmani is to maintain the Cosmic Balance between the forces of Good, Evil, Law, and Chaos. Their entire society is centered around this, and whenever one side becomes too powerful, the rilmani work with its opposing force to restore the Balance.
