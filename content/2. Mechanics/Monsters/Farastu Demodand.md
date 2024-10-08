@@ -1,0 +1,1 @@
+![[Farastu.png]]
